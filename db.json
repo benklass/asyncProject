@@ -1,10 +1,12 @@
-[
-    {
-        "name" : "Product 1",
-        "price" : "R75"
-    },
-    {
+{
+   "products" : [
+       {
+          "name" : "Product 1",
+          "price" : "R75"
+       },
+       {
         "name" : "Product 2",
         "price" : "R100"
-    }
-]
+       }
+   ]
+}
