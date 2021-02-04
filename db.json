@@ -5,8 +5,8 @@
           "price" : "R75"
        },
        {
-        "name" : "Product 2",
-        "price" : "R100"
+          "name" : "Product 2",
+          "price" : "R100"
        }
    ]
 }
