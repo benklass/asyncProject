@@ -8,7 +8,7 @@
        {
           "id" : 2,
           "name" : "Product 2",
-          "price" : 100
+          "price" : 100,
        }
    ]
 }
